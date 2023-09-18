@@ -18,7 +18,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Usage
 
-To run this application launch the following URL in your browser:  https://watch.screencastify.com/v/cXvC4L70NSWmsRvObUax
+To run this application launch the following URL in your browser: https://still-badlands-52979-a65e8ac8ed04.herokuapp.com/
 
 ## Source
 
